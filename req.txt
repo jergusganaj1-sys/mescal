@@ -1,5 +1,4 @@
 #### `requirements.txt`
-Tento súbor hovorí Renderu, aké knižnice treba nainštalovať:
 ```text
 Flask
 Flask-SocketIO
